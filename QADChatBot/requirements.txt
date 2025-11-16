@@ -1,0 +1,17 @@
+langchain
+openai
+pinecone-client
+fastapi
+uvicorn
+python-dotenv
+pydantic
+requests
+streamlit
+langchain-openai
+langchain-core
+langchain_community
+docx2txt
+pypdf
+langchain_chroma
+python-multipart
+chromadb
